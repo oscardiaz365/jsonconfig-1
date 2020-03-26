@@ -1,0 +1,16 @@
+{
+  "connections": [
+    {
+      "codigo": "3325647",
+      "url": "https://tpsoftwarefactory.teleperformance.co/TPCO/SpeechToText-Manager/Home/Login"
+    },
+    {
+      "codigo": "0",
+      "url": "https://www.google.com"
+    },
+    {
+      "codigo": "11122021",
+      "url": "https://tpsoftwarefactory.teleperformance.co/TPCO/TPWritelessSpain/SpeechToText-Manager/Home/Login"
+    }
+  ]
+}
