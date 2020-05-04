@@ -26,8 +26,13 @@
       
     }, 
     {
-      "codigo": "112233",
+      "codigo": "LLA",
       "url": "https://managerwriteless.teleperformance.co/LLA/WriteLess-manager/Home/Login"
+      
+    },
+     {
+      "codigo": "ESV",
+      "url": "https://managerwriteless.teleperformance.co/ESV/WriteLess-manager/Home/Login"
       
     } 
     
