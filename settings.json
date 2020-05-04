@@ -23,6 +23,13 @@
     {
       "codigo": "123456123",
       "url": "https://managerwriteless.teleperformance.co/Doordash/WriteLess-manager/Home/Login"
+      
+    }, 
+    {
+      "codigo": "112233",
+      "url": "https://managerwriteless.teleperformance.co/LLA/WriteLess-manager/Home/Login"
+      
     } 
+    
   ]
 }
