@@ -34,6 +34,11 @@
       "codigo": "ESV",
       "url": "https://managerwriteless.teleperformance.co/ESV/WriteLess-manager/Home/Login"
       
+    },
+    {
+      "codigo": "VTR",
+      "url": "https://managerwriteless.teleperformance.co/VTR_CHAT_RRSS/WriteLess-manager/Home/Login"
+      
     } 
     
   ]
