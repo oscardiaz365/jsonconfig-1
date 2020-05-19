@@ -20,7 +20,6 @@
     {
       "codigo": "123456123",
       "url": "https://managerwriteless.teleperformance.co/Doordash/WriteLess-manager/Home/Login"
-      
     }, 
      {
       "codigo": "Vivint",
@@ -34,20 +33,14 @@
      {
       "codigo": "ESV",
       "url": "https://managerwriteless.teleperformance.co/ESV/WriteLess-manager/Home/Login"
-      
     },
     {
       "codigo": "Instacart",
       "url": "https://managerwriteless.teleperformance.co/Instacart/WriteLess-manager/Home/Login"
-      
     },
     {
       "codigo": "VTR",
       "url": "https://managerwriteless.teleperformance.co/VTR/WriteLess-manager/Home/Login"
-      
     }
-       
-    
-    
   ]
 }
