@@ -1,0 +1,46 @@
+{
+  "connections": [
+    {
+      "codigo": "3325647",
+      "url": "https://tpsoftwarefactory.teleperformance.co/TPCO/SpeechToText-Manager/Home/Login"
+    },
+      {
+      "codigo": "88654",
+      "url": "https://tpcgpdevelopment.teleperformance.co/TPCLCODESABanistmo/SpeechToTextManager/Home/Login"
+    },
+          {
+      "codigo": "55885",
+      "url": "https://tpcgpdevelopment.teleperformance.co/TPCLCODESANequi/SpeechToTextManager/Home/Login"
+    },
+   
+    {
+      "codigo": "11122021",
+      "url": "https://tpsoftwarefactory.teleperformance.co/TPCO/TPWritelessSpain/SpeechToText-Manager/Home/Login"
+    },
+    {
+      "codigo": "123456123",
+      "url": "https://managerwriteless.teleperformance.co/Doordash/WriteLess-manager/Home/Login"
+    }, 
+     {
+      "codigo": "Vivint",
+      "url": "https://managerwriteless.teleperformance.co/Vivint/WriteLess-manager/Home/Login"
+    }, 
+    {
+      "codigo": "LLA",
+      "url": "https://managerwriteless.teleperformance.co/LLA/WriteLess-manager/Home/Login"
+      
+    },
+     {
+      "codigo": "ESV",
+      "url": "https://managerwriteless.teleperformance.co/ESV/WriteLess-manager/Home/Login"
+    },
+    {
+      "codigo": "Instacart",
+      "url": "https://managerwriteless.teleperformance.co/Instacart/WriteLess-manager/Home/Login"
+    },
+    {
+      "codigo": "VTR",
+      "url": "https://managerwriteless.teleperformance.co/VTR/WriteLess-manager/Home/Login"
+    }
+  ]
+}
