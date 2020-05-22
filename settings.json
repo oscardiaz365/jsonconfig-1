@@ -25,6 +25,8 @@
       "codigo": "Vivint",
       "url": "https://managerwriteless.teleperformance.co/Vivint/WriteLess-manager/Home/Login"
     }, 
+    
+    
     {
       "codigo": "LLA",
       "url": "https://managerwriteless.teleperformance.co/LLA/WriteLess-manager/Home/Login"
@@ -41,6 +43,11 @@
     {
       "codigo": "VTR",
       "url": "https://managerwriteless.teleperformance.co/VTR/WriteLess-manager/Home/Login"
-    }
+    },
+     {
+      "codigo": "Orange",
+      "url": "https://tpcgpdevelopment.teleperformance.co/TPCLCODESAOrange/SpeechToTextManager/Home/Login"
+    }, 
   ]
 }
+
