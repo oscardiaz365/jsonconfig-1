@@ -48,6 +48,10 @@
       "codigo": "Orange",
       "url": "https://tpcgpdevelopment.teleperformance.co/TPCLCODESAOrange/SpeechToTextManager/Home/Login"
     }
+    {
+      "codigo":"MEXDEMO",
+      "url": "https://managerwriteless.tpmex.com/Home/Login"
+    }
   ]
 }
 
