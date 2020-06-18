@@ -51,6 +51,10 @@
     {
       "codigo":"MEXDEMO",
       "url": "https://managerwriteless.tpmex.com/Home/Login"
+    },
+    {
+      "codigo":"Nequi",
+      "url":"https://managerwriteless.teleperformance.co/nequi/Writeless-Manager/Home/Login"
     }
   ]
 }
