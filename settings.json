@@ -59,6 +59,14 @@
     {
       "codigo":"Secure",
       "url":"https://tpsoftwarefactory.teleperformance.co/TPCO/TPWriteless-Manager/Home/Login"
+    },
+    {
+      "codigo":"Netflix",
+      "url":"https://managerwriteless.teleperformance.co/Netflix/Writeless-Manager/Home/Login"
+    },
+        {
+      "codigo":"Banistmo",
+      "url":"https://managerwriteless.teleperformance.co/Banistmo/Writeless-Manager/Home/Login"
     }
     
   ]
